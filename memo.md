@@ -1,13 +1,63 @@
-## 1. 주어가 동사의 어미를 고른다
+Ich lerne Deutsch. 
 
-Ich lerne Deutsch 
+Du lernst Deutsch. 
 
-Du lernst Deutsch 
+Er lernt Deutsch. 
 
-Er lernt Deutsch 
+Sie lernt Deutsch. 
 
-Wir lernen Deutsch 
+Es lernt Deutsch. 
 
-Ihr lernt Deutsch 
+Wir lernen Deutsch. 
 
-Sie lernen Deutsch 
+Ihr lernt Deutsch. 
+
+Sie lernen Deutsch. 
+
+Sie lernen Deutsch. 
+
+---
+
+Anna kommt heute. Sie kommt aus Korea. 
+
+Meine Eltern kommen heute. Sie kommen aus Korea. 
+
+Kommen Sie aus Korea, Herr Kim? 
+
+--- 
+
+Ich lerne Deutsch. 
+
+Du lernst Deutsch. 
+
+Er lernt Deutsch. 
+
+Wir lernen Deutsch. 
+
+Ihr lernt Deutsch. 
+
+Sie lernen Deutsch. 
+
+---
+
+Hanna kommt heute. Sie kommt aus Korea. 
+
+Meine Eltern kommen heute. Sie kommen aus Korea. 
+
+Kommen Sie aus Korea, Herr Kim? 
+
+----
+
+Ich bin Student. 
+
+Du bist Lehrer. 
+
+Er ist gesund. 
+
+Wir sind hier. 
+
+Wir sind hier. 
+
+Ihr seid willkommen. 
+
+Sie sind Lehrerin, Frau Kim. 
