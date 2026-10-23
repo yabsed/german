@@ -1,65 +1,133 @@
-## 1. 주어가 동사의 어미를 고른다. 
+* Minho Kim kommt aus Korea. 
+* Er ist Student. 
+* Klaus Schmidt ist Lehrer. 
 
-lernen. 
-
-Ich lerne Deutsch. 
-
-Du lernst Deutsch. 
-
-Er lernt Deutsch. 
-
-Wir lernen Deutsch. 
-
-Ihrn lernt Deutsch. 
-
-Sie lernen Deutsch. 
+> der Student - die Studenten 
+> der Lehrer  - die Lehrer
 
 ---
 
-Anna kommt heute. Sie kommt aus Korea. 
+* Guten Tag! 
+* Ich heisse Klaus Schmidt. 
+* Und wie heissen Sie? 
 
-Meine Eltern kommen heute. Sie kommen aus Korea. 
+* Ich heisse Minho Kim. 
 
-Kommen Sie aus Korea, Herr Kim
+----
 
----
+* Herr Kim, woher kommen Sie? 
 
-Ich bin Student. 
+* Ich komme aus Korea. 
+* Und Sie? 
 
-Du bist Lehrer. 
+* Ich komme eigentlich aus Hamburg. 
+* Aber ich wohne jetzt in Berlin. 
 
-Er ist gesund. 
-
-Wir sind hier. 
-
-Ihr seid willkommen. 
-
-Sie sind Lehrerin, Frau Kim. 
-
----
-
-Hast du Zeit. Ich habe Zeit. 
-
-Er hat ein Buch. 
-
-Habt ihr Zeit? Wir haben Zeit. 
-
-Haben Sie Zeit? Frau Kim? 
+* Ich wohne in Muenchen. 
+* Dort studiere ich. 
 
 ---
 
-## 2. 동사는 두번째 성분
+* Was machen Sie beruflich? 
+
+* Ich bin Lehrer. 
+* Kommen Sie mal nach Berlin? 
+* Sie sind immer herzlich willkommen. 
+
+* Vielen Dank!
+* Auf Wiedersehen. 
+
+> der Dank
 
 ---
 
-Meine Eltern wohnen in Seoul. 
+* Guten Morgen!
+* Guten Tag! 
+* Guten Abend!
+* Gute  Nacht! 
 
-Jetzt wohnt Anna in Berlin. 
+* Auf Wiedersehen. 
 
-In Berlin wohnt Anna jetzt. 
+* Tschues!
+* Tschau!
+
+----
+
+* Sie - siezen 
+
+    * der Herr - die Herren 
+    * die Frau - die Frauen 
+
+* du  - duzen 
+
+* der Name - die Namen 
+    * der Vorname - die Vornamen
+    * der Familienname - die Familiennamen 
+    * der Nachname - die Nachnamen  
+
+---
+
+* Deutschland. 
+* Oesterreich. 
+
+* die Schweiz. 
+
+* Deutschland. 
+* Oesterreich. 
+
+* die Schweiz. 
+
+---
+
+* ich 
+* du 
+* er - sie - es 
+* wir 
+* ihr 
+* sie 
+* Sie 
+
+----
+
+* kommen 
+    * ich komme 
+    * du  kommst
+    * er  kommt 
+    * wir kommen 
+    * ihr kommt 
+    * sie kommen 
+
+* heissen
+    * ich heisse 
+    * du  heisst 
+    * er  heisst 
+    * wir heissen 
+    * ihr heisst
+    * sie heissen
+
+* sein 
+    * ich bin 
+    * du  bist 
+    * er  ist 
+    * wir sind 
+    * ihr seid 
+    * sie sind
 
 --- 
 
-Wie heissen Sie? 
+* kommen 
+    * Ich   komme  aus Korea. 
+    * Er    kommt  aus Deutschland. 
+    * Woher kommst du? 
+    * Woher kommen Sie? 
+    
+* heissen 
+    * Wie heisst  du? 
+    * Wie heisst  er? 
+    * Wie heissen Sie? 
 
-Was machen Sie beruflich?
+* sein 
+    * Ich bin Lehrer. 
+    * Er  ist Lehrer. 
+    * Du  bist immer herzlich willkommen. 
+    * Sie sind imemr herzlich willkommen. 
