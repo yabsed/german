@@ -1,6 +1,6 @@
 # DIY VER2 교재 문장과 단어 분석
 
-* `materials/textbook`의 교재 사진 13장, 인쇄 9–13쪽·15–33쪽을 바탕으로 정리했다.
+* `materials/textbook`의 교재 사진 13장과 `materials/textbook-5`의 사진 4장, 총 17장을 바탕으로 정리했다. 인쇄 쪽수는 9–13쪽·15–33쪽·37–41쪽이며, 37쪽은 두 사진에 중복으로 나온다.
 * `DIY_ZIP`처럼 짧은 개념 → 독일어 문장 → 바로 아래 뜻·문법·단어 순서.
 * 본문 대화, 도입 문장, 문법 예문, 변화표, 발음 예시, 어휘 상자, 지도·이름표를 공부한다.
 * 명사 → `die Frau → die Frauen : 여자`처럼 정관사와 복수형을 함께 외운다.
@@ -22,6 +22,8 @@
     * 대화와 이름 / 관사·인칭대명사·haben / 옷과 색깔
 * [4과 · Meine Familie](4.md) — 29–33쪽
     * 가족 대화 / 소유관사 / 숫자와 단어 만들기
+* [5과 · Meine Wohnung](5.md) — 37–41쪽
+    * 집과 가구 대화 / 장소·방향 전치사 / 동사의 격지배 / 불규칙 현재형 / dies-·jen-
 
 ---
 
@@ -35,28 +37,40 @@
 
 ## 3. 사진과 대응
 
-* [기본 사진](../materials/textbook/KakaoTalk_20261012_104454803.jpg) → 9쪽 → 1과
-* [사진 01](../materials/textbook/KakaoTalk_20261012_104454803_01.jpg) → 10–11쪽 → 1과
-* [사진 02](../materials/textbook/KakaoTalk_20261012_104454803_02.jpg) → 12–13쪽 → 1과, 단어집
-* [사진 03](../materials/textbook/KakaoTalk_20261012_104454803_03.jpg) → 15쪽 → 2과
-* [사진 04](../materials/textbook/KakaoTalk_20261012_104454803_04.jpg) → 16–17쪽 → 2과
-* [사진 05](../materials/textbook/KakaoTalk_20261012_104454803_05.jpg) → 18–19쪽 → 2과, 단어집
-* [사진 06](../materials/textbook/KakaoTalk_20261012_104454803_06.jpg) → 20–21쪽 → 3과, 단어집
-* [사진 07](../materials/textbook/KakaoTalk_20261012_104454803_07.jpg) → 22–23쪽 → 3과
-* [사진 08](../materials/textbook/KakaoTalk_20261012_104454803_08.jpg) → 24–25쪽 → 3과, 단어집
-* [사진 09](../materials/textbook/KakaoTalk_20261012_104454803_09.jpg) → 26–27쪽 → 단어집
-* [사진 10](../materials/textbook/KakaoTalk_20261012_104454803_10.jpg) → 28–29쪽 → 3과, 4과
-* [사진 11](../materials/textbook/KakaoTalk_20261012_104454803_11.jpg) → 30–31쪽 → 4과
-* [사진 12](../materials/textbook/KakaoTalk_20261012_104454803_12.jpg) → 32–33쪽 → 4과
+### 3.1. materials/textbook
+
+* [기본 사진](../../materials/textbook/KakaoTalk_20261012_104454803.jpg) → 9쪽 → 1과
+* [사진 01](../../materials/textbook/KakaoTalk_20261012_104454803_01.jpg) → 10–11쪽 → 1과
+* [사진 02](../../materials/textbook/KakaoTalk_20261012_104454803_02.jpg) → 12–13쪽 → 1과, 단어집
+* [사진 03](../../materials/textbook/KakaoTalk_20261012_104454803_03.jpg) → 15쪽 → 2과
+* [사진 04](../../materials/textbook/KakaoTalk_20261012_104454803_04.jpg) → 16–17쪽 → 2과
+* [사진 05](../../materials/textbook/KakaoTalk_20261012_104454803_05.jpg) → 18–19쪽 → 2과, 단어집
+* [사진 06](../../materials/textbook/KakaoTalk_20261012_104454803_06.jpg) → 20–21쪽 → 3과, 단어집
+* [사진 07](../../materials/textbook/KakaoTalk_20261012_104454803_07.jpg) → 22–23쪽 → 3과
+* [사진 08](../../materials/textbook/KakaoTalk_20261012_104454803_08.jpg) → 24–25쪽 → 3과, 단어집
+* [사진 09](../../materials/textbook/KakaoTalk_20261012_104454803_09.jpg) → 26–27쪽 → 단어집
+* [사진 10](../../materials/textbook/KakaoTalk_20261012_104454803_10.jpg) → 28–29쪽 → 3과, 4과
+* [사진 11](../../materials/textbook/KakaoTalk_20261012_104454803_11.jpg) → 30–31쪽 → 4과
+* [사진 12](../../materials/textbook/KakaoTalk_20261012_104454803_12.jpg) → 32–33쪽 → 4과
+
+### 3.2. materials/textbook-5
+
+쪽수 순서로 정리했다. 37쪽 상세 사진과 전체 사진의 본문은 한 번만 반영했다.
+
+* [사진 03](../../materials/textbook-5/KakaoTalk_20261024_195145676_03.jpg) → 37쪽 상세 → 5과 대화, 단어집
+* [사진 02](../../materials/textbook-5/KakaoTalk_20261024_195145676_02.jpg) → 37쪽과 맞은편 필기 → 5과 대화·사진 필기, 단어집
+* [사진 01](../../materials/textbook-5/KakaoTalk_20261024_195145676_01.jpg) → 38–39쪽 → 5과 어휘·문화·전치사, 단어집
+* [기본 사진](../../materials/textbook-5/KakaoTalk_20261024_195145676.jpg) → 40–41쪽 → 5과 격지배·현재형·지시 표현·어휘, 단어집
 
 ---
 
 ## 4. 범위와 표기
 
-* 자료 범위는 위 교재 사진에 한정한다. 다른 폴더의 프린트·PDF를 합치지 않았다.
-* 사진에 없는 14쪽 및 뒤의 교재 쪽은 범위에 포함되지 않는다.
+* 자료 범위는 위 두 폴더의 교재 사진에 한정한다. 다른 폴더의 프린트·PDF를 합치지 않았다.
+* 사진에 없는 14쪽·34–36쪽·42쪽 이후는 범위에 포함되지 않는다. 37쪽 맞은편의 읽을 수 있는 필기는 반영하되, 보이지 않는 인쇄 쪽수를 추정하지 않았다.
 * 사진의 읽을 수 있는 학습 필기는 ‘사진 필기’로 구별했다. 필기체의 모양과 판독하기 어려운 메모는 원본 사진에서 확인한다.
 * 한국어 뜻, 명사의 복수형, 동사 활용, 문법 풀이는 교재 어휘와 문장을 설명하기 위한 보충이다.
 * 인기 이름 순위는 교재 당시 자료다.
+* 5과의 집 구하기 문화는 교재 당시의 소개 내용으로 요약했다.
 * 교재 이름 철자 `Stehphanie`는 `Stephanie`로 바로잡고 해당 위치에 설명을 남겼다.
 * `→`는 변화·대응 관계, `/`는 나열·선택지, `←`는 기본형을 뜻한다.
